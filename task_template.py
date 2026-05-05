@@ -24,7 +24,7 @@ from sklearn.model_selection import KFold
 from scipy.stats import norm
 
 BASE_URL = "http://34.63.153.158"   #DONOT CHANGE
-API_KEY = "YOUR_API_KEY_HERE" #REPLACE WITH YOUR API KEY
+API_KEY = "YOUR_API_KEY" #REPLACE WITH YOUR API KEY
 TASK_ID = "01-mia"  #DONOT CHANGE
 
 # config
